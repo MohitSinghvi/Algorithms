@@ -160,7 +160,6 @@ class Prims{
 		g.dfs("g");
 		g.prim("a");
 		
-		
 	}
 	
 }
